@@ -4,7 +4,7 @@
 This repository provides the CAD model of a perception suite for Cassie-series robots. We use it extensively and regularly for our autonomy experiments. 
 
 
-This perception suite is able to rigidly hold two RGB-D cameras, two LiDARs. In addition, two fans are used to vacillate two Jetson AGX Xaviers with GPUs. Furthermore, a router, an USB hub, and an internet switch are utilized for communication from users and Cassie to the perception suite. Finally, a 12-volt LiPo battery powers up all the sensors.
+This perception suite is able to rigidly hold two RGB-D cameras and two LiDARs. In addition, two fans are used to vacillate two Jetson AGX Xaviers with GPUs. Furthermore, a router, an USB hub, and an internet switch are utilized for communication among users, Cassie, and the perception suite. Finally, a 12-volt LiPo battery powers up all the sensors.
 
 
 * Author: Jiunn-Kai (Bruce) Huang and Jessy W. Grizzle
